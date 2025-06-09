@@ -93,6 +93,7 @@ concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
 |PMEL | Pacific Marine Environmental Laboratory|
 |PPE| Personal Protective Equipment|
 | RNA  | Ribonucleic acid  |
+|UV| Ultraviolet (light) |
 |UW |University of Washington|
 
 ### Glossary
@@ -136,6 +137,12 @@ Molecular biology training (including, at a minimum, sterile technique and pipet
 Quantifying 96 samples takes around 3 hours (180 minutes), including buffer mixture preparation and DNA sample addition.
 
 ## EQUIPMENT
+
+- Description: E.g., "filter".
+- Product Name and Model: Provide the official name of the product.
+- Manufacturer: Provide the name of the manufacturer of the product.
+- Quantity: Provide quantities necessary for one application of the standard operating procedure (e.g., number of filters).
+- Remark: For example, some of the consumable may need to be sterilized, some commercial solution may need to be diluted or shielded from light during the operating procedure.
 
 For 96 samples using 2 μL of sample DNA extract each:
 
@@ -185,7 +192,7 @@ Wash bottles|Safety wash bottle 500 mL for ethanol and bleach | VWR| 2 | Can be 
 2. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes.
 3. Set up the required number of Qubit tubes for standards and samples in a 0.5 mL tube rack. Both the dsDNA BR and HS kits require two standards. For 96 samples + 2 standards, you will need 98 tubes. Label the tops if each tubes with sample names or standard abbreviations (S1 or S2). **Do not label the side of the tube, as this will interfere with sample read.**
 
-4. Use the reagent calculator on the Qubit to determine the composition of your working solution (i.e., iQuant BR/HS buffer and iQuant dye reagent). The dye should be mixed into the buffer at a 1:200 ratio. Use a sterile plastic tube (50 mL falcon tube for 96 samples, smaller tube for fewer samples. **Do not mix in a glass container**) to prepare the working solution. Mix working solution by votrexing or inverting. Take standards 1 and 2 out of the fridge and allow them to warm to room temperature.
+4. Use the reagent calculator on the Qubit to determine the composition of your working solution (i.e., iQuant BR/HS buffer and iQuant dye reagent). The dye should be mixed into the buffer at a 1:200 ratio. Use a sterile plastic tube (50 mL falcon tube for 96 samples, smaller tube for fewer samples. **Do not mix in a glass container**) to prepare the working solution. Mix working solution by vortexing or inverting. Take standards 1 and 2 out of the fridge and allow them to warm to room temperature.
 
 5. Add 190 μL of working solution to the qubit tubes labeled S1 and S2, then 198 μL in each of the sample tubes (if you are planning to add 2 μL of DNA per sample).
 
