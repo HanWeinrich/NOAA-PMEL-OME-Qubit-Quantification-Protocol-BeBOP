@@ -81,7 +81,7 @@ concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
 |BR | Broad Range|
-|CICOES|  Cooperative Institute for Climate, Ocean and Ecosystem Studies|
+|CICOES|  Cooperative Institute for Climate, Ocean, and Ecosystem Studies|
 | DNA | Deoxyribonucleic acid  |
 |dsDNA| Double-stranded DNA|
 |eDNA|Environmental DNA|
@@ -90,7 +90,7 @@ concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
 |NOAA | National Oceanographic and Atmospheric Administration|
 |OME| Ocean Molecular Ecology|
 |PCR| Polymerase chain reaction|
-|PMEL | Pacific Marine Environmental Laboaratory|
+|PMEL | Pacific Marine Environmental Laboratory|
 |PPE| Personal Protective Equipment|
 | RNA  | Ribonucleic acid  |
 |UW |University of Washington|
@@ -133,7 +133,7 @@ Molecular biology training (including, at a minimum, sterile technique and pipet
 
 ### Time Needed to Execute the Procedure
 
-Quantifying 96 samples takes around 3 hours (180 minutes), including buffer mixture preparation and DNa sample addition.
+Quantifying 96 samples takes around 3 hours (180 minutes), including buffer mixture preparation and DNA sample addition.
 
 ## EQUIPMENT
 
