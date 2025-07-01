@@ -58,7 +58,7 @@ concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
 - This section contains protocols that should be known to users of this protocol.
 - Include the link to each protocol.
 - Include the version number and release date (if available).
-- Internal/External: "Internal" are derivative or altered protocols, or other protocols in this workflow. "External" are protcols from manufacturers or other groups.
+- Internal/External: "Internal" are derivative or altered protocols, or other protocols in this workflow. "External" are protocols from manufacturers or other groups.
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
@@ -109,7 +109,7 @@ This document outlines the protocol for Qubit quantification of double-stranded 
 
 ### Summary
 
-The Invitrogen Qubit Fluorometer accurately and quickly measures the concentration of DNA, RNA, or protein in a single sample. OME utilizes this protocol to quantify DNA concentration of our samples before PCR amplification.
+The Invitrogen Qubit Fluorometer accurately and quickly measures the concentration of DNA, RNA, or protein in a single sample. OME utilizes this protocol to quantify the DNA concentration of our samples before PCR amplification.
 
 
 ### Method Description and Rationale
@@ -126,7 +126,7 @@ One person with molecular biology experience.
 
 ### Safety
 
-This protocol does not involve any hazardous chemicals, although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to chemical reagents.
+This protocol does not involve any hazardous chemicals, although standard precautions, including wearing PP,E should be taken to avoid skin and eye exposure to chemical reagents.
 
 ### Training Requirements
 
@@ -142,7 +142,7 @@ Quantifying 96 samples takes around 3 hours (180 minutes), including buffer mixt
 - Product Name and Model: Provide the official name of the product.
 - Manufacturer: Provide the name of the manufacturer of the product.
 - Quantity: Provide quantities necessary for one application of the standard operating procedure (e.g., number of filters).
-- Remark: For example, some of the consumable may need to be sterilized, some commercial solution may need to be diluted or shielded from light during the operating procedure.
+- Remark: For example, some of the consumables may need to be sterilized, some commercial solutions may need to be diluted or shielded from light during the operating procedure.
 
 For 96 samples using 2 μL of sample DNA extract each:
 
@@ -151,12 +151,12 @@ For 96 samples using 2 μL of sample DNA extract each:
 | **Durable equipment** |
 |Pipetter: 1-10 μl|Pipetman P10L | Gilson | 1| Can be substituted with any accurate pipettor|
 |Pipetter: 100-1000 μL|Pipetman P1000| Gilson| 1 | 	Can be substituted with any accurate pipettor|
-| Mini-centrifuge | Personal mini centrifuge | 	BioExcell | 1 | Can be substituted with generic, but needs to fit 0.5 mL tubes |
+| Mini-centrifuge | Personal mini centrifuge | 	BioExcell | 1 | Can be substituted with a generic, but needs to fit 0.5 mL tubes |
 | Vortex | Analog vortex mixer | Fisher Scientific | 1 | Can be substituted with generic |
 Wash bottles|Safety wash bottle 500 mL for ethanol and bleach | VWR| 2 | Can be substituted with generic, but recommend different colored bottles for each reagent. Must be sterilized before use|
 |Qubit| Qubit 4 Fluorometer | Invitrogen | 1| Can be substituted with different Qubit model|
 |0.5 mL tube rack|96-Well Flipper™ Microtube Racks |Fisher Scientific | 3 |Can be substituted with generic, must fit 0.5 mL tubes|
-| 4-way tube racks | 4 way interlocking tube rack| Cole-Parmer | 1 | Can be substituted with generic, must fit 50 mL tubes |
+| 4-way tube racks | 4-way interlocking tube rack| Cole-Parmer | 1 | Can be substituted with generic, must fit 50 mL tubes |
 | **Consumable equipment** |
 | Lab notebook  | | Generic     | 1  | Dedicated to the lab space |
 | Kimwipes  | Delicate task wipes   | Kimtech     |  5 wipes   | Can be substituted with generic; must be lint-free     |
@@ -187,36 +187,36 @@ Wash bottles|Safety wash bottle 500 mL for ethanol and bleach | VWR| 2 | Can be 
 
 ### Preparation
 
-1. Sterilize workspaces and durable equipment, including pipettes and all surfaces with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH. For low concentration samples or samples especially sensitive to contamination, Qubit quantification should be carried out inside a BioSafety II cabinet if one is available. Run the cabinet UV regularly and keep internal surfaces clean.
+1. Sterilize workspaces and durable equipment, including pipettes and all surfaces, with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH. For low concentration samples or samples especially sensitive to contamination, Qubit quantification should be carried out inside a BioSafety II cabinet if one is available. Run the cabinet UV regularly and keep internal surfaces clean.
 
 2. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes.
-3. Set up the required number of Qubit tubes for standards and samples in a 0.5 mL tube rack. Both the dsDNA BR and HS kits require two standards. For 96 samples + 2 standards, you will need 98 tubes. Label the tops if each tubes with sample names or standard abbreviations (S1 or S2). **Do not label the side of the tube, as this will interfere with sample read.**
+3. Set up the required number of Qubit tubes for standards and samples in a 0.5 mL tube rack. Both the dsDNA BR and HS kits require two standards. For 96 samples + 2 standards, you will need 98 tubes. Label the tops if each tubes with sample names or standard abbreviations (S1 or S2). **Do not label the side of the tube, as this will interfere with the sample read.**
 
-4. Use the reagent calculator on the Qubit to determine the composition of your working solution (i.e., iQuant BR/HS buffer and iQuant dye reagent). The dye should be mixed into the buffer at a 1:200 ratio. Use a sterile plastic tube (50 mL falcon tube for 96 samples, smaller tube for fewer samples. **Do not mix in a glass container**) to prepare the working solution. Mix working solution by vortexing or inverting. Take standards 1 and 2 out of the fridge and allow them to warm to room temperature.
+4. Use the reagent calculator on the Qubit to determine the composition of your working solution (i.e., iQuant BR/HS buffer and iQuant dye reagent). The dye should be mixed into the buffer at a 1:200 ratio. Use a sterile plastic tube (50 mL falcon tube for 96 samples, smaller tube for fewer samples. **Do not mix in a glass container**) to prepare the working solution. Mix the working solution by vortexing or inverting. Take standards 1 and 2 out of the fridge and allow them to warm to room temperature.
 
 5. Add 190 μL of working solution to the qubit tubes labeled S1 and S2, then 198 μL in each of the sample tubes (if you are planning to add 2 μL of DNA per sample).
 
-6. Vortex and spin down sample DNA in mini-centrifuge before adding to the qubit tube.
+6. Vortex and spin down the sample DNA in a mini-centrifuge before adding to the qubit tube.
 
-7. Add 10 μL of standard 1 to the S1 tube and 10 μL standard 2 to the S2 tube. Add 2 μL of DNA into each sample tube. Mix the qubit tubes by vortexing and spin downing on the mini-centrifuge.
+7. Add 10 μL of standard 1 to the S1 tube and 10 μL of standard 2 to the S2 tube. Add 2 μL of DNA into each sample tube. Mix the qubit tubes by vortexing and spinning down on the mini-centrifuge.
 
 **WARNING**: Qubit tube will break if spun down for more than 3-4 seconds at a time or if the caps are not securely snapped in place. **SPIN WITH CAUTION**.
 
-8. Allow all tubes to incubate at room temperature for 5 minutes before quantifying. Once DNA is added to the buffer, they can sit for < 3 hours.
+8. Allow all tubes to incubate at room temperature for 5 minutes before quantifying. Once DNA is added to the buffer, it can sit for < 3 hours.
 
 ### Quantification
 
 1. On the home screen of the Qubit, click dsDNA. Then click dsDNA BR or HS, depending on which kit you used.
-2. The “read standards” screen will displayed. Press Read Standards to proceed. Wipe down S1 tube with kimwipe and insert it into the sample chamber, close the lid, then press read standard. When the reading is complete (~3 seconds), remove S1. Repeat the same process with S2 for the standard 2 reading.
+2. The “read standards” screen will be displayed. Press Read Standards to proceed. Wipe down S1 tube with kimwipe and insert it into the sample chamber, close the lid, then press read standard. When the reading is complete (~3 seconds), remove S1. Repeat the same process with S2 for the standard 2 reading.
 
-3. Press run samples. On the assay screen select 2 μL and then set the units to ng/μL.
-4. Wipe down the sample tube with kimwipe and insert into the sample chamber, close the lid, and read tube. The instrument displays the results on the assay screen. The top value (in large font) is the concentration of the original sample. The bottom value is the dilution concentration. Make sure chamber door is closed when sample reading is underway. Repeat until all samples are quantified.
+3. Press run samples. On the assay screen, select 2 μL and then set the units to ng/μL.
+4. Wipe down the sample tube with kimwipe and insert into the sample chamber, close the lid, and read tube. The instrument displays the results on the assay screen. The top value (in large font) is the concentration of the original sample. The bottom value is the dilution concentration. Make sure the chamber door is closed when sample reading is underway. Repeat until all samples are quantified.
 
 ### Basic Troubleshooting Guide
 
 **Issue 1**: Out of range - too high
 
-**Solution**: First re-run the tube to verify it was a reading error. If still out of range, if not currently using a BR kit, re-run the sample with those reagents. If already using the BR kit, recommend re-pipetting the sample and running again.
+**Solution**: First, re-run the tube to verify it was a reading error. If still out of range, if not currently using a BR kit, re-run the sample with those reagents. If already using the BR kit, recommend re-pipetting the sample and running again.
 
 **Issue 2**: Out of range - too low
 
