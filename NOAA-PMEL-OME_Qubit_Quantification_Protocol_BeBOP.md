@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: Omics Analysis
-project: #NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Program Protocols
+project: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Program Protocols
 purpose: Qubit assay [NCIT:C183239]
 analyses: Qubit assay [NCIT:C183239]
 geographic_location: 'North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323]'
