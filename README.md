@@ -1,4 +1,4 @@
-# NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP
+# NOAA-PMEL-OME_Qubit_Quantification_Protocol_BeBOP
 
 [![DOI](https://zenodo.org/badge/996387684.svg)](https://doi.org/10.5281/zenodo.15627702)
 
