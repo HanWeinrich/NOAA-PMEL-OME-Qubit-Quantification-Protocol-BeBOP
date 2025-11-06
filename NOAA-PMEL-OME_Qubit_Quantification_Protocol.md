@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 180
 personnel_required: 1
 language: en
-issued: 2025-10-06
+issued: 2025-11-06
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1
@@ -73,7 +73,7 @@ concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-06-04 | Initial release |
-| 1.0.0 | 2025-10-06 | FAIRe updates and minor spelling/grammar revisions|
+| 1.0.1 | 2025-11-06 | FAIRe updates and minor spelling/grammar revisions|
 
 ### Acronyms and Abbreviations
 
@@ -110,7 +110,6 @@ This document outlines the protocol for Qubit quantification of double-stranded 
 
 The Invitrogen Qubit Fluorometer accurately and quickly measures the concentration of DNA, RNA, or protein in a single sample. OME utilizes this protocol to quantify the DNA concentration of our samples before PCR amplification.
 
-
 ### Method Description and Rationale
 
 The Qubit fluorometer quantifies PCR products by measuring fluorescence emitted from DNA-binding dyes that are specific to double-stranded DNA. These dyes bind selectively to double-stranded DNA and emit fluorescence proportional to the DNA concentration when excited by a specific wavelength of light. 
@@ -125,7 +124,7 @@ One person with molecular biology experience.
 
 ### Safety
 
-This protocol does not involve any hazardous chemicals, although standard precautions, including wearing PPE, should be taken to avoid skin and eye exposure to chemical reagents.
+This protocol uses bleach and ethanol, both of which are classified as hazardous chemicals. Appropriate PPE must be worn, and standard safety procedures should be followed to avoid skin and eye exposure.
 
 ### Training Requirements
 
