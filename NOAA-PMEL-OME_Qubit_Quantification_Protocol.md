@@ -15,15 +15,17 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 180
 personnel_required: 1
 language: en
-issued: 2025-11-06
+issued: 2025-11-12
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
-hasVersion: 1
+hasVersion: 1.0.1
 license: CC0 1.0 Universal
 maturity level: mature
 
 # FAIRe terms
-concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
+concentration: not applicable
+concentration_unit: ng/µl
+concentration_method: Qubit Fluorometer v.4 dsDNA high sensitivity kit
 ---
 
 # NOAA PMEL OME Qubit Quantification Protocol
@@ -73,7 +75,7 @@ concentration_method: Qubit 4.0 Fluorometer (Invitrogen)
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-06-04 | Initial release |
-| 1.0.1 | 2025-11-06 | FAIRe updates and minor spelling/grammar revisions|
+| 1.0.1 | 2025-11-12 | FAIRe updates and minor spelling/grammar revisions|
 
 ### Acronyms and Abbreviations
 
