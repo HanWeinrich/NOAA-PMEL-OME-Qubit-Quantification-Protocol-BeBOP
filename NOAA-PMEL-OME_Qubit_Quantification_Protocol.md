@@ -7,7 +7,7 @@ analyses: Qubit assay [NCIT:C183239]
 geographic_location: North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323], Lake Washington [GAZ:00008722]
 broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], freshwater biome [ENVO:00000873]
 local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024], freshwater lake biome [ENVO:01000252], estuary [ENVO:00000045]
-environmental_medium: sea water [ENVO:00002149], fresh water [ENVO:00002011], tissue [UBERON:0000479], planktonic material [ENVO:01000063]
+environmental_medium: sea water [ENVO:00002149], fresh water [ENVO:00002011], organic material [ENVO:01000155], planktonic material [ENVO:01000063]
 target: DNA [NCIT:C449]
 creator: Shannon Brown, Han Weinrich, Kenna Dailey
 materials_required: 
@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 180
 personnel_required: 1
 language: en
-issued: 2025-11-12
+issued: 2025-11-14
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1.0.1
@@ -64,7 +64,7 @@ concentration_method: Qubit Fluorometer v.4 dsDNA high sensitivity kit
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
-| Qubit™ 4 Fluorometer User Guide| [MAN0017209_Qubit_4_Fluorometer_UG](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0017209_Qubit_4_Fluorometer_UG.pdf) | D.0   | 2021-10-20     |External|
+| Qubit™ 4 Fluorometer User Guide| [MAN0017209_Qubit_4_Fluorometer_UG](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0017209_Qubit_4_Fluorometer_UG.pdf) | D.0   | 2021-10-20  |External|
 
 ### Protocol Revision Record
 
@@ -75,7 +75,7 @@ concentration_method: Qubit Fluorometer v.4 dsDNA high sensitivity kit
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-06-04 | Initial release |
-| 1.0.1 | 2025-11-12 | FAIRe updates and minor spelling/grammar revisions|
+| 1.0.1 | 2025-11-14 | FAIRe updates and minor spelling/grammar revisions|
 
 ### Acronyms and Abbreviations
 
