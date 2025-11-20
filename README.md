@@ -1,6 +1,6 @@
 # NOAA-PMEL-OME_Qubit_Quantification_Protocol_BeBOP
 
-[![DOI](https://zenodo.org/badge/996387684.svg)](https://doi.org/10.5281/zenodo.15627702)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17655234.svg)](https://doi.org/10.5281/zenodo.17655234)
 
 See [NOAA-PMEL-OME_Qubit_Quantification_Protocol_BeBOP](https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME_Qubit_Quantification_Protocol.md) for the detailed protocol.
 
